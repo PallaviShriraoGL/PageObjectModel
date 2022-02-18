@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-17T17:35:09 IST" name="Default suite" finished-at="2022-02-17T17:35:30 IST" duration-ms="21061">
+    <groups>
+    </groups>
+    <test started-at="2022-02-17T17:35:09 IST" name="Default test" finished-at="2022-02-17T17:35:30 IST" duration-ms="21061">
+      <class name="DemoBlazeTest.FillFormPageTest">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:DemoBlazeTest.FillFormPageTest@9353778]" started-at="2022-02-17T17:35:10 IST" name="initialize" finished-at="2022-02-17T17:35:22 IST" duration-ms="11737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="fillOrderForm1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DemoBlazeTest.FillFormPageTest@9353778]" started-at="2022-02-17T17:35:22 IST" name="fillOrderForm1" data-provider="getFormPageData" finished-at="2022-02-17T17:35:30 IST" duration-ms="8531" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pallavi Shrirao1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Indian]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Nagpur]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[12345.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[4.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2026.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillOrderForm1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DemoBlazeTest.FillFormPageTest@9353778]" started-at="2022-02-17T17:35:30 IST" name="tearDown" finished-at="2022-02-17T17:35:30 IST" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DemoBlazeTest.FillFormPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
